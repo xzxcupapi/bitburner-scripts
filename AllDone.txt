@@ -1,0 +1,72 @@
+Server 1: foodnstuff
+  Uang yang tersedia: $200,671.778
+  Level hacking yang diperlukan: 1
+  Level hacking saat ini: 101
+  Akses Root: Ya
+  RAM yang dimiliki: 16 GB
+  Stolen.js aktif: Ya
+
+Server 2: n00dles
+  Uang yang tersedia: $32,443.518
+  Level hacking yang diperlukan: 1
+  Level hacking saat ini: 101
+  Akses Root: Ya
+  RAM yang dimiliki: 4 GB
+  Stolen.js aktif: Ya
+
+Server 3: sigma-cosmetics
+  Uang yang tersedia: $458,688.008
+  Level hacking yang diperlukan: 5
+  Level hacking saat ini: 101
+  Akses Root: Ya
+  RAM yang dimiliki: 16 GB
+  Stolen.js aktif: Ya
+
+Server 4: joesguns
+  Uang yang tersedia: $1,056,345.768
+  Level hacking yang diperlukan: 10
+  Level hacking saat ini: 101
+  Akses Root: Ya
+  RAM yang dimiliki: 16 GB
+  Stolen.js aktif: Ya
+
+Server 5: nectar-net
+  Uang yang tersedia: $2,580,314.752
+  Level hacking yang diperlukan: 20
+  Level hacking saat ini: 101
+  Akses Root: Ya
+  RAM yang dimiliki: 16 GB
+  Stolen.js aktif: Ya
+
+Server 6: hong-fang-tea
+  Uang yang tersedia: $2,246,356.533
+  Level hacking yang diperlukan: 30
+  Level hacking saat ini: 101
+  Akses Root: Ya
+  RAM yang dimiliki: 16 GB
+  Stolen.js aktif: Ya
+
+Server 7: harakiri-sushi
+  Uang yang tersedia: $3,808,434.511
+  Level hacking yang diperlukan: 40
+  Level hacking saat ini: 101
+  Akses Root: Ya
+  RAM yang dimiliki: 16 GB
+  Stolen.js aktif: Ya
+
+Server 8: neo-net
+  Uang yang tersedia: $4,751,996.353
+  Level hacking yang diperlukan: 50
+  Level hacking saat ini: 101
+  Akses Root: Ya
+  RAM yang dimiliki: 32 GB
+  Stolen.js aktif: Ya
+
+Server 9: zer0
+  Uang yang tersedia: $7,500,000
+  Level hacking yang diperlukan: 75
+  Level hacking saat ini: 101
+  Akses Root: Ya
+  RAM yang dimiliki: 32 GB
+  Stolen.js aktif: Ya
+

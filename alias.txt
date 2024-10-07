@@ -1,0 +1,23 @@
+alias h="connect home"
+alias br="backdoor"
+alias all="run all.js"
+alias alldone="run allDone.js"
+alias rc="run contract.js"
+alias rb="run backdoor.js"
+alias rg="run getRoot.js"
+alias rp="run path.js" 
+alias rpro="run profiler.js" 
+alias rs="run stolen.js"
+alias cas="run autoSolver.js" for contract coding
+alias dw="connect darkweb"
+alias bit="run bitnode.js"
+alias rf="run formula.js"
+alias inf="home ; run infiltration.js --status"
+alias infon="home ; run infiltration.js --start"
+alias infoff="home ; run infiltration.js --stop"
+
+
+tools
+
+nuke = run nuke.exe
+brute = run burtessh.exe

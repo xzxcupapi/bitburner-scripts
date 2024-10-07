@@ -1,0 +1,528 @@
+Server 7: sigma-cosmetics
+  Uang yang tersedia: $2,300,000
+  Level hacking yang diperlukan: 5
+  Level hacking saat ini: 1.025816944621262e+269
+  Akses Root: Tidak
+  RAM yang tersedia: 16 GB
+  Stolen.js aktif: Tidak
+
+Server 8: joesguns
+  Uang yang tersedia: $2,500,000
+  Level hacking yang diperlukan: 10
+  Level hacking saat ini: 1.025816944621262e+269
+  Akses Root: Tidak
+  RAM yang tersedia: 16 GB
+  Stolen.js aktif: Tidak
+
+Server 9: nectar-net
+  Uang yang tersedia: $2,750,000
+  Level hacking yang diperlukan: 20
+  Level hacking saat ini: 1.025816944621262e+269
+  Akses Root: Tidak
+  RAM yang tersedia: 16 GB
+  Stolen.js aktif: Tidak
+
+Server 10: hong-fang-tea
+  Uang yang tersedia: $3,000,000
+  Level hacking yang diperlukan: 30
+  Level hacking saat ini: 1.025816944621262e+269
+  Akses Root: Tidak
+  RAM yang tersedia: 16 GB
+  Stolen.js aktif: Tidak
+
+Server 11: harakiri-sushi
+  Uang yang tersedia: $4,000,000
+  Level hacking yang diperlukan: 40
+  Level hacking saat ini: 1.025816944621262e+269
+  Akses Root: Tidak
+  RAM yang tersedia: 16 GB
+  Stolen.js aktif: Tidak
+
+Server 12: neo-net
+  Uang yang tersedia: $5,000,000
+  Level hacking yang diperlukan: 50
+  Level hacking saat ini: 1.025816944621262e+269
+  Akses Root: Tidak
+  RAM yang tersedia: 32 GB
+  Stolen.js aktif: Tidak
+
+Server 13: zer0
+  Uang yang tersedia: $7,500,000
+  Level hacking yang diperlukan: 75
+  Level hacking saat ini: 1.025816944621262e+269
+  Akses Root: Tidak
+  RAM yang tersedia: 32 GB
+  Stolen.js aktif: Tidak
+
+Server 14: max-hardware
+  Uang yang tersedia: $10,000,000
+  Level hacking yang diperlukan: 80
+  Level hacking saat ini: 1.025816944621262e+269
+  Akses Root: Tidak
+  RAM yang tersedia: 32 GB
+  Stolen.js aktif: Tidak
+
+Server 15: iron-gym
+  Uang yang tersedia: $20,000,000
+  Level hacking yang diperlukan: 100
+  Level hacking saat ini: 1.025816944621262e+269
+  Akses Root: Tidak
+  RAM yang tersedia: 32 GB
+  Stolen.js aktif: Tidak
+
+Server 16: phantasy
+  Uang yang tersedia: $24,000,000
+  Level hacking yang diperlukan: 100
+  Level hacking saat ini: 1.025816944621262e+269
+  Akses Root: Tidak
+  RAM yang tersedia: 32 GB
+  Stolen.js aktif: Tidak
+
+Server 17: silver-helix
+  Uang yang tersedia: $45,000,000
+  Level hacking yang diperlukan: 150
+  Level hacking saat ini: 1.025816944621262e+269
+  Akses Root: Tidak
+  RAM yang tersedia: 64 GB
+  Stolen.js aktif: Tidak
+
+Server 18: omega-net
+  Uang yang tersedia: $67,735,351
+  Level hacking yang diperlukan: 213
+  Level hacking saat ini: 1.025816944621262e+269
+  Akses Root: Tidak
+  RAM yang tersedia: 32 GB
+  Stolen.js aktif: Tidak
+
+Server 19: avmnite-02h
+  Uang yang tersedia: $0
+  Level hacking yang diperlukan: 213
+  Level hacking saat ini: 1.025816944621262e+269
+  Akses Root: Tidak
+  RAM yang tersedia: 64 GB
+  Stolen.js aktif: Tidak
+
+Server 20: crush-fitness
+  Uang yang tersedia: $50,781,966
+  Level hacking yang diperlukan: 229
+  Level hacking saat ini: 1.025816944621262e+269
+  Akses Root: Tidak
+  RAM yang tersedia: 0 GB
+  Stolen.js aktif: Tidak
+
+Server 21: johnson-ortho
+  Uang yang tersedia: $81,139,364
+  Level hacking yang diperlukan: 282
+  Level hacking saat ini: 1.025816944621262e+269
+  Akses Root: Tidak
+  RAM yang tersedia: 0 GB
+  Stolen.js aktif: Tidak
+
+Server 22: the-hub
+  Uang yang tersedia: $158,035,442
+  Level hacking yang diperlukan: 316
+  Level hacking saat ini: 1.025816944621262e+269
+  Akses Root: Tidak
+  RAM yang tersedia: 16 GB
+  Stolen.js aktif: Tidak
+
+Server 23: computek
+  Uang yang tersedia: $242,959,056
+  Level hacking yang diperlukan: 318
+  Level hacking saat ini: 1.025816944621262e+269
+  Akses Root: Tidak
+  RAM yang tersedia: 0 GB
+  Stolen.js aktif: Tidak
+
+Server 24: I.I.I.I
+  Uang yang tersedia: $0
+  Level hacking yang diperlukan: 343
+  Level hacking saat ini: 1.025816944621262e+269
+  Akses Root: Tidak
+  RAM yang tersedia: 16 GB
+  Stolen.js aktif: Tidak
+
+Server 25: aevum-police
+  Uang yang tersedia: $276,326,572
+  Level hacking yang diperlukan: 402
+  Level hacking saat ini: 1.025816944621262e+269
+  Akses Root: Tidak
+  RAM yang tersedia: 32 GB
+  Stolen.js aktif: Tidak
+
+Server 26: rothman-uni
+  Uang yang tersedia: $224,096,280
+  Level hacking yang diperlukan: 409
+  Level hacking saat ini: 1.025816944621262e+269
+  Akses Root: Tidak
+  RAM yang tersedia: 32 GB
+  Stolen.js aktif: Tidak
+
+Server 27: netlink
+  Uang yang tersedia: $275,000,000
+  Level hacking yang diperlukan: 424
+  Level hacking saat ini: 1.025816944621262e+269
+  Akses Root: Tidak
+  RAM yang tersedia: 64 GB
+  Stolen.js aktif: Tidak
+
+Server 28: catalyst
+  Uang yang tersedia: $314,165,087
+  Level hacking yang diperlukan: 434
+  Level hacking saat ini: 1.025816944621262e+269
+  Akses Root: Tidak
+  RAM yang tersedia: 64 GB
+  Stolen.js aktif: Tidak
+
+Server 29: summit-uni
+  Uang yang tersedia: $247,473,867
+  Level hacking yang diperlukan: 447
+  Level hacking saat ini: 1.025816944621262e+269
+  Akses Root: Tidak
+  RAM yang tersedia: 16 GB
+  Stolen.js aktif: Tidak
+
+Server 30: rho-construction
+  Uang yang tersedia: $560,487,337
+  Level hacking yang diperlukan: 515
+  Level hacking saat ini: 1.025816944621262e+269
+  Akses Root: Tidak
+  RAM yang tersedia: 32 GB
+  Stolen.js aktif: Tidak
+
+Server 31: millenium-fitness
+  Uang yang tersedia: $250,000,000
+  Level hacking yang diperlukan: 523
+  Level hacking saat ini: 1.025816944621262e+269
+  Akses Root: Tidak
+  RAM yang tersedia: 16 GB
+  Stolen.js aktif: Tidak
+
+Server 32: run4theh111z
+  Uang yang tersedia: $0
+  Level hacking yang diperlukan: 524
+  Level hacking saat ini: 1.025816944621262e+269
+  Akses Root: Tidak
+  RAM yang tersedia: 32 GB
+  Stolen.js aktif: Tidak
+
+Server 33: .
+  Uang yang tersedia: $0
+  Level hacking yang diperlukan: 535
+  Level hacking saat ini: 1.025816944621262e+269
+  Akses Root: Tidak
+  RAM yang tersedia: 16 GB
+  Stolen.js aktif: Tidak
+
+Server 34: alpha-ent
+  Uang yang tersedia: $646,035,472
+  Level hacking yang diperlukan: 558
+  Level hacking saat ini: 1.025816944621262e+269
+  Akses Root: Tidak
+  RAM yang tersedia: 64 GB
+  Stolen.js aktif: Tidak
+
+Server 35: syscore
+  Uang yang tersedia: $496,347,964
+  Level hacking yang diperlukan: 596
+  Level hacking saat ini: 1.025816944621262e+269
+  Akses Root: Tidak
+  RAM yang tersedia: 0 GB
+  Stolen.js aktif: Tidak
+
+Server 36: snap-fitness
+  Uang yang tersedia: $450,000,000
+  Level hacking yang diperlukan: 726
+  Level hacking saat ini: 1.025816944621262e+269
+  Akses Root: Tidak
+  RAM yang tersedia: 0 GB
+  Stolen.js aktif: Tidak
+
+Server 37: lexo-corp
+  Uang yang tersedia: $721,027,759
+  Level hacking yang diperlukan: 733
+  Level hacking saat ini: 1.025816944621262e+269
+  Akses Root: Tidak
+  RAM yang tersedia: 32 GB
+  Stolen.js aktif: Tidak
+
+Server 38: global-pharm
+  Uang yang tersedia: $1,724,051,225
+  Level hacking yang diperlukan: 761
+  Level hacking saat ini: 1.025816944621262e+269
+  Akses Root: Tidak
+  RAM yang tersedia: 16 GB
+  Stolen.js aktif: Tidak
+
+Server 39: zb-institute
+  Uang yang tersedia: $956,982,389
+  Level hacking yang diperlukan: 772
+  Level hacking saat ini: 1.025816944621262e+269
+  Akses Root: Tidak
+  RAM yang tersedia: 16 GB
+  Stolen.js aktif: Tidak
+
+Server 40: zb-def
+  Uang yang tersedia: $1,027,891,874
+  Level hacking yang diperlukan: 787
+  Level hacking saat ini: 1.025816944621262e+269
+  Akses Root: Tidak
+  RAM yang tersedia: 0 GB
+  Stolen.js aktif: Tidak
+
+Server 41: applied-energetics
+  Uang yang tersedia: $836,203,526
+  Level hacking yang diperlukan: 806
+  Level hacking saat ini: 1.025816944621262e+269
+  Akses Root: Tidak
+  RAM yang tersedia: 0 GB
+  Stolen.js aktif: Tidak
+
+Server 42: helios
+  Uang yang tersedia: $570,653,385
+  Level hacking yang diperlukan: 815
+  Level hacking saat ini: 1.025816944621262e+269
+  Akses Root: Tidak
+  RAM yang tersedia: 64 GB
+  Stolen.js aktif: Tidak
+
+Server 43: titan-labs
+  Uang yang tersedia: $783,379,170
+  Level hacking yang diperlukan: 818
+  Level hacking saat ini: 1.025816944621262e+269
+  Akses Root: Tidak
+  RAM yang tersedia: 128 GB
+  Stolen.js aktif: Tidak
+
+Server 44: solaris
+  Uang yang tersedia: $707,958,970
+  Level hacking yang diperlukan: 821
+  Level hacking saat ini: 1.025816944621262e+269
+  Akses Root: Tidak
+  RAM yang tersedia: 128 GB
+  Stolen.js aktif: Tidak
+
+Server 45: unitalife
+  Uang yang tersedia: $1,078,314,042
+  Level hacking yang diperlukan: 822
+  Level hacking saat ini: 1.025816944621262e+269
+  Akses Root: Tidak
+  RAM yang tersedia: 16 GB
+  Stolen.js aktif: Tidak
+
+Server 46: vitalife
+  Uang yang tersedia: $725,281,187
+  Level hacking yang diperlukan: 828
+  Level hacking saat ini: 1.025816944621262e+269
+  Akses Root: Tidak
+  RAM yang tersedia: 64 GB
+  Stolen.js aktif: Tidak
+
+Server 47: zeus-med
+  Uang yang tersedia: $1,428,782,206
+  Level hacking yang diperlukan: 828
+  Level hacking saat ini: 1.025816944621262e+269
+  Akses Root: Tidak
+  RAM yang tersedia: 0 GB
+  Stolen.js aktif: Tidak
+
+Server 48: deltaone
+  Uang yang tersedia: $1,360,927,440
+  Level hacking yang diperlukan: 830
+  Level hacking saat ini: 1.025816944621262e+269
+  Akses Root: Tidak
+  RAM yang tersedia: 0 GB
+  Stolen.js aktif: Tidak
+
+Server 49: nova-med
+  Uang yang tersedia: $1,153,958,787
+  Level hacking yang diperlukan: 835
+  Level hacking saat ini: 1.025816944621262e+269
+  Akses Root: Tidak
+  RAM yang tersedia: 0 GB
+  Stolen.js aktif: Tidak
+
+Server 50: microdyne
+  Uang yang tersedia: $650,860,682
+  Level hacking yang diperlukan: 836
+  Level hacking saat ini: 1.025816944621262e+269
+  Akses Root: Tidak
+  RAM yang tersedia: 64 GB
+  Stolen.js aktif: Tidak
+
+Server 51: univ-energy
+  Uang yang tersedia: $1,141,516,496
+  Level hacking yang diperlukan: 854
+  Level hacking saat ini: 1.025816944621262e+269
+  Akses Root: Tidak
+  RAM yang tersedia: 64 GB
+  Stolen.js aktif: Tidak
+
+Server 52: omnia
+  Uang yang tersedia: $956,778,294
+  Level hacking yang diperlukan: 856
+  Level hacking saat ini: 1.025816944621262e+269
+  Akses Root: Tidak
+  RAM yang tersedia: 32 GB
+  Stolen.js aktif: Tidak
+
+Server 53: galactic-cyber
+  Uang yang tersedia: $789,882,035
+  Level hacking yang diperlukan: 863
+  Level hacking saat ini: 1.025816944621262e+269
+  Akses Root: Tidak
+  RAM yang tersedia: 0 GB
+  Stolen.js aktif: Tidak
+
+Server 54: icarus
+  Uang yang tersedia: $939,623,800
+  Level hacking yang diperlukan: 870
+  Level hacking saat ini: 1.025816944621262e+269
+  Akses Root: Tidak
+  RAM yang tersedia: 0 GB
+  Stolen.js aktif: Tidak
+
+Server 55: aerocorp
+  Uang yang tersedia: $1,047,799,326
+  Level hacking yang diperlukan: 905
+  Level hacking saat ini: 1.025816944621262e+269
+  Akses Root: Tidak
+  RAM yang tersedia: 0 GB
+  Stolen.js aktif: Tidak
+
+Server 56: omnitek
+  Uang yang tersedia: $19,035,500,109
+  Level hacking yang diperlukan: 910
+  Level hacking saat ini: 1.025816944621262e+269
+  Akses Root: Tidak
+  RAM yang tersedia: 512 GB
+  Stolen.js aktif: Tidak
+
+Server 57: infocomm
+  Uang yang tersedia: $664,168,273
+  Level hacking yang diperlukan: 911
+  Level hacking saat ini: 1.025816944621262e+269
+  Akses Root: Tidak
+  RAM yang tersedia: 0 GB
+  Stolen.js aktif: Tidak
+
+Server 58: The-Cave
+  Uang yang tersedia: $0
+  Level hacking yang diperlukan: 925
+  Level hacking saat ini: 1.025816944621262e+269
+  Akses Root: Tidak
+  RAM yang tersedia: 0 GB
+  Stolen.js aktif: Tidak
+
+Server 59: taiyang-digital
+  Uang yang tersedia: $826,366,278
+  Level hacking yang diperlukan: 934
+  Level hacking saat ini: 1.025816944621262e+269
+  Akses Root: Tidak
+  RAM yang tersedia: 0 GB
+  Stolen.js aktif: Tidak
+
+Server 60: b-and-a
+  Uang yang tersedia: $25,976,490,752
+  Level hacking yang diperlukan: 952
+  Level hacking saat ini: 1.025816944621262e+269
+  Akses Root: Tidak
+  RAM yang tersedia: 0 GB
+  Stolen.js aktif: Tidak
+
+Server 61: 4sigma
+  Uang yang tersedia: $23,618,313,513
+  Level hacking yang diperlukan: 956
+  Level hacking saat ini: 1.025816944621262e+269
+  Akses Root: Tidak
+  RAM yang tersedia: 0 GB
+  Stolen.js aktif: Tidak
+
+Server 62: defcomm
+  Uang yang tersedia: $817,752,577
+  Level hacking yang diperlukan: 961
+  Level hacking saat ini: 1.025816944621262e+269
+  Akses Root: Tidak
+  RAM yang tersedia: 0 GB
+  Stolen.js aktif: Tidak
+
+Server 63: stormtech
+  Uang yang tersedia: $1,102,516,609
+  Level hacking yang diperlukan: 970
+  Level hacking saat ini: 1.025816944621262e+269
+  Akses Root: Tidak
+  RAM yang tersedia: 0 GB
+  Stolen.js aktif: Tidak
+
+Server 64: powerhouse-fitness
+  Uang yang tersedia: $900,000,000
+  Level hacking yang diperlukan: 1024
+  Level hacking saat ini: 1.025816944621262e+269
+  Akses Root: Tidak
+  RAM yang tersedia: 16 GB
+  Stolen.js aktif: Tidak
+
+Server 65: clarkinc
+  Uang yang tersedia: $20,008,463,376
+  Level hacking yang diperlukan: 1051
+  Level hacking saat ini: 1.025816944621262e+269
+  Akses Root: Tidak
+  RAM yang tersedia: 0 GB
+  Stolen.js aktif: Tidak
+
+Server 66: fulcrumtech
+  Uang yang tersedia: $1,514,407,395
+  Level hacking yang diperlukan: 1109
+  Level hacking saat ini: 1.025816944621262e+269
+  Akses Root: Tidak
+  RAM yang tersedia: 512 GB
+  Stolen.js aktif: Tidak
+
+Server 67: fulcrumassets
+  Uang yang tersedia: $1,000,000
+  Level hacking yang diperlukan: 1119
+  Level hacking saat ini: 1.025816944621262e+269
+  Akses Root: Tidak
+  RAM yang tersedia: 0 GB
+  Stolen.js aktif: Tidak
+
+Server 68: megacorp
+  Uang yang tersedia: $53,940,684,765
+  Level hacking yang diperlukan: 1123
+  Level hacking saat ini: 1.025816944621262e+269
+  Akses Root: Tidak
+  RAM yang tersedia: 0 GB
+  Stolen.js aktif: Tidak
+
+Server 69: kuai-gong
+  Uang yang tersedia: $29,775,312,959
+  Level hacking yang diperlukan: 1126
+  Level hacking saat ini: 1.025816944621262e+269
+  Akses Root: Tidak
+  RAM yang tersedia: 0 GB
+  Stolen.js aktif: Tidak
+
+Server 70: nwo
+  Uang yang tersedia: $28,337,082,399
+  Level hacking yang diperlukan: 1126
+  Level hacking saat ini: 1.025816944621262e+269
+  Akses Root: Tidak
+  RAM yang tersedia: 0 GB
+  Stolen.js aktif: Tidak
+
+Server 71: blade
+  Uang yang tersedia: $15,801,800,854
+  Level hacking yang diperlukan: 1138
+  Level hacking saat ini: 1.025816944621262e+269
+  Akses Root: Tidak
+  RAM yang tersedia: 128 GB
+  Stolen.js aktif: Tidak
+
+Server 72: ecorp
+  Uang yang tersedia: $42,744,493,616
+  Level hacking yang diperlukan: 1317
+  Level hacking saat ini: 1.025816944621262e+269
+  Akses Root: Tidak
+  RAM yang tersedia: 0 GB
+  Stolen.js aktif: Tidak
+
